@@ -7,7 +7,7 @@ To view the video on youtube hit the heading down below.
 To download the video hit the link down below
 https://github.com/MubashirChaudhary/Portfolio/blob/master/BTS-%20Video/Assignment-4-portfolio.mp4
 
-# Screenshots
+# [Screenshots](https://github.com/MubashirChaudhary/Portfolio/tree/master/Screenshots/)
 https://github.com/MubashirChaudhary/Portfolio/blob/master/Screenshots/step1.PNG
 https://github.com/MubashirChaudhary/Portfolio/blob/master/Screenshots/LaunchOnBrowser.PNG
 https://github.com/MubashirChaudhary/Portfolio/blob/master/Screenshots/Analyse.PNG
